@@ -83,3 +83,11 @@ margin-top: 4px;
     transition: 150 ease-in-out;
     background-color: #1068c6;
 }
+.footer{
+    font-family: monospace;
+    font-size: 12px;
+    margin-left:20px;
+    display:block;
+    max-width:800px;
+    margin: 0 auto;
+}
